@@ -5,12 +5,6 @@ Designed to improve motivation and retention through gamification, personalizati
 
 ## 🚀 Getting Started
 
-1. Install dependencies
-
-```bash
-npm install
-
-```
-
-2. start the app
-   npx expo start
+Quick start:
+1. git clone 2. npm i 3. cp .env.example .env 4. npx expo start.
+2. Register yourself with your own exmail address and password.
