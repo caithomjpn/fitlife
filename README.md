@@ -8,3 +8,5 @@ Designed to improve motivation and retention through gamification, personalizati
 Quick start:
 1. git clone 2. npm i 3. cp .env.example .env 4. npx expo start.
 2. Register yourself with your own exmail address and password.
+
+main codes are in app, components folder. 
